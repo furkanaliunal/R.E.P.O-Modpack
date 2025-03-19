@@ -1,0 +1,16 @@
+
+*
+!.gitignore
+!README.md
+!BepInEx/
+!BepInEx/**
+!doorstop_config.ini
+!winhttp.dll
+!external_mods.txt
+
+BepInEx/LogOutput.log
+BepInEx/cache/
+BepInEx/cache/**
+BepInEx/plugins/externals/
+BepInEx/plugins/externals/**
+
