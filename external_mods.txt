@@ -1,0 +1,4 @@
+Utility_LateJoin;0.1.2;https://gcdn.thunderstore.io/live/repository/packages/Rebateman-LateJoin-0.1.2.zip
+Cosmetic_MHZ-MoreHead;1.2.3;https://gcdn.thunderstore.io/live/repository/packages/YMC_MHZ-MoreHead-1.2.3.zip
+Cosmetic_RESET-MoreHeadPlus;0.1.8;https://gcdn.thunderstore.io/live/repository/packages/RESET-MoreHeadPlus-0.1.8.zip
+Cosmetic_Bengimi-BensCosmetics;1.2.7;https://gcdn.thunderstore.io/live/repository/packages/Bengimi-BensCosmetics-1.2.7.zip
